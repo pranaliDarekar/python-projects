@@ -7,3 +7,7 @@ mini python projects on 5 basic games
 3. Rock, paper and scissors
 4. Choose your adventure game
 5. Password manager
+6. Weight Converter
+7. Temperature Converter
+8. Email Slicer
+9. Compound Interest Calculator
