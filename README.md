@@ -11,3 +11,6 @@ mini python projects on 5 basic games
 7. Temperature Converter
 8. Email Slicer
 9. Compound Interest Calculator
+10. Count Down Timer
+11. Shopping cart Updater
+12. Quiz game
