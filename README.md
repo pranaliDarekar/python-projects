@@ -14,3 +14,5 @@ mini python projects on 5 basic games
 10. Count Down Timer
 11. Shopping cart Updater
 12. Quiz game
+13. Python Consession stand Program
+14. Python Number guessing game
