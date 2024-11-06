@@ -16,3 +16,5 @@ mini python projects on 5 basic games
 12. Quiz game
 13. Python Consession stand Program
 14. Python Number guessing game
+15. R,P,S GAME
+16. Python dice roller game
