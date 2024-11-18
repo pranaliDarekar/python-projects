@@ -20,3 +20,4 @@ mini python projects on 5 basic games
 16. Python dice roller game
 17. Encryption and Decryption Program
 18. Python Credit Card Validator Program
+19. Banking Program
